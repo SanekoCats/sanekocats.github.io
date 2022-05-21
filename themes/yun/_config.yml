@@ -251,7 +251,7 @@ vendors:
 # UI
 banner:
   enable: true
-  title: 春见救猫小队
+  title: 春见小窝
   src: /js/ui/banner.js
   border: true
   cloud:
@@ -396,7 +396,7 @@ footer:
 
   live_time:
     enable: false
-    prefix: 本博客已运行
+    prefix: 本小窝已运行
     suffix: (●'◡'●)
     start_time: "2022-05-21T00:00:00"
 
