@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 米拉克的小站
+title: Saneko 春见救猫小队
 subtitle: ''
 description: ''
 keywords:
-author: 米拉克
+author: Saneko 春见救猫小队
 language: zh_CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://merakt.cn
+url: 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: root@github.com:MerakW/merakw.github.io.git
+  repo: root@github.com:SanekoCats/sanekocats.github.io.git
   branch: master

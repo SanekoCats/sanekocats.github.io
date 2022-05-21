@@ -1,15 +1,15 @@
 mode: auto
 
 avatar:
-  url: https://z3.ax1x.com/2021/08/16/fRWDk4.jpg
+  url: 
   status:
     enable: true
-    emoji: 🙃
-    message: 无限进步
+    emoji: 🐱
+    message: 
 
 reward:
   enable: true
-  comment: 我很可爱，请给我钱
+  comment: 关于捐款喵～
 
 github_issues:
   enable: false
@@ -22,8 +22,8 @@ cursor:
 
 valine:
   enable: true
-  appId: J8Qr9yTBqnfszkUg5udw5ft5-MdYXbMMI
-  appKey: Xydedu4joPFhOqOoCbutSKLg
+  appId: XXGnvwKL3PNqFw5B7UXHDEei-MdYXbMMI
+  appKey: lT9oXfYVup35d4Syo2R4HaDv
   placeholder: Just go go # comment box placeholder
   avatar: # gravatar style
   meta:
