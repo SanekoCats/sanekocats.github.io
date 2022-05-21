@@ -8,7 +8,7 @@ avatar:
     message: 
 
 reward:
-  enable: true
+  enable: false
   comment: 关于捐款喵～
 
 github_issues:
