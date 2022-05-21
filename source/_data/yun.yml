@@ -1,15 +1,7 @@
 mode: auto
 
-#avatar:
-  #url: https://s1.ax1x.com/2022/05/21/OvsthR.png
- # status:
-   # enable: true
-   # emoji: 🐱
-   # message: 喵～
-
-
 reward:
-  enable: true
+  enable: false
   comment: 关于捐款喵～
 
 github_issues:
