@@ -400,14 +400,14 @@ footer:
     suffix: (●'◡'●)
     start_time: "2022-05-21T00:00:00"
 
-  # Display support
-  # support:
-  #   enable: true
-  #   title: 又拍云
-  #   link: https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
-  #   logo: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/logo/upyun-logo.png
-  #   prefix: 本网站由
-  #   suffix: 提供 CDN 加速
+  Display support
+  support:
+  enable: true
+  title: 米拉克
+  link: https://merakt.cn
+  logo: https://s1.ax1x.com/2022/05/22/OvRK39.png
+  prefix: 本网站由
+  suffix: 提供技术支持
   # Any custom text can be defined here.
   # custom_text: Hosted by <a href="https://pages.coding.me" rel="noopener" target="_blank">Coding Pages</a>
 
