@@ -50,7 +50,7 @@ social:
     #color: orange
   - name: QQ群传送门
     # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: https://qm.qq.com/cgi-bin/qm/qr?k=GeypngksMfLsBWWGZbHzd1ASgKd47PVv&authKey=8sSxrJBEZwoF6F3HzGzAVRnq0JHTxkdFOTLf3C9dk1qz9tcQWQ2fScbhH4klujnk&noverify=0
+    link: https://jq.qq.com/?_wv=1027&k=AOtsONZR
     icon: icon-qq-line
     color: "#12B7F5"
   - name: E-Mail
