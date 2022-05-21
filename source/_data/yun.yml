@@ -1,11 +1,11 @@
 mode: auto
 
 avatar:
-  url: 
+  url: https://s1.ax1x.com/2022/05/21/OvsthR.png
   status:
     enable: true
     emoji: 🐱
-    message: 
+    message: 喵～
 
 reward:
   enable: false
