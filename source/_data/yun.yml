@@ -57,3 +57,10 @@ valine:
 
 wordcloud:
   enable: true
+
+leancloud_visitors:
+  enable: true
+  app_id: nLNkdnp78lXuqNfzNlUIFHjP-MdYXbMMI
+  app_key: RTuV4wKMYuQdoYC7SRasSVqP
+  # Required for apps from CN region
+  server_url: # <your server url>
