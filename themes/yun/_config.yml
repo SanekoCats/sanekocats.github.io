@@ -48,13 +48,9 @@ social:
     #link: /atom.xml # config.feed.path
     #icon: icon-rss-line
     #color: orange
-  - name: QQ群传送门
-    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: https://jq.qq.com/?_wv=1027&k=AOtsONZR
-    icon: icon-qq-line
-    color: "#12B7F5"
+
   - name: E-Mail
-    link: mailto:feed@sanekocats.cn
+    link: mailto:echotv@merakt.cn
     icon: icon-mail-line
     color: "#8E71C1"
 
@@ -64,12 +60,6 @@ codeblock:
     light: default
     dark: tomorrow
 
-# Extra links
-pages:
-  - name: 捐款传送门～
-    url: /links
-    icon: icon-heart-line
-    color: hotpink
 
 
 # pages
@@ -96,7 +86,7 @@ avatar:
   mickey_mouse: false
   status:
     enable: false
-    emoji: 😊
+    emoji: 🙂️
     message: 永远相信美好的事情即将发生
 
 # main menu navigation
@@ -121,7 +111,7 @@ menu:
 
 # archive
 archive:
-  last_word: 没有更多了喵～
+  last_word: 没有更多了～
 
 wordcloud:
   enable: false
@@ -398,7 +388,7 @@ footer:
     enable: false
     prefix: 本小窝已运行
     suffix: (●'◡'●)
-    start_time: "2022-05-21T00:00:00"
+    start_time: "2022-09-10T00:00:00"
 
   # Display support
   # support:

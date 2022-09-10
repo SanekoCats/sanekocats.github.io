@@ -1,15 +1,11 @@
 mode: auto
 
 avatar:
-  url: https://s1.ax1x.com/2022/05/21/OvsthR.png
+  url: https://s1.ax1x.com/2022/09/10/vOnYF0.jpg
   status:
     enable: true
-    emoji: 🐱
-    message: 喵～
-
-reward:
-  enable: false
-  comment: 关于捐款喵～
+    emoji: 🙂️
+    message: 招新中～
 
 github_issues:
   enable: false
@@ -31,8 +27,8 @@ cursor:
 
 valine:
   enable: true
-  appId: XXGnvwKL3PNqFw5B7UXHDEei-MdYXbMMI
-  appKey: lT9oXfYVup35d4Syo2R4HaDv
+  appId: bWFeDexzpJpNUDNoAmyzb19c-gzGzoHsz
+  appKey: l5XRDZ9vsiGHAwON5VTifyLS
   placeholder: Just go go # comment box placeholder
   avatar: # gravatar style
   meta:
@@ -58,9 +54,3 @@ valine:
 wordcloud:
   enable: true
 
-leancloud_visitors:
-  enable: true
-  app_id: nLNkdnp78lXuqNfzNlUIFHjP-MdYXbMMI
-  app_key: RTuV4wKMYuQdoYC7SRasSVqP
-  # Required for apps from CN region
-  server_url: # <your server url>
