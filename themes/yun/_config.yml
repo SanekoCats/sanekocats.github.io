@@ -386,7 +386,7 @@ footer:
 
   live_time:
     enable: false
-    prefix: 本小窝已运行
+    prefix: 本站点已运行
     suffix: (●'◡'●)
     start_time: "2022-09-10T00:00:00"
 

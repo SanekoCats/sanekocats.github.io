@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Saneko 春见小窝
+title: 海创Echo传媒
 subtitle: ''
 description: ''
 keywords:
-author: Saneko 春见救猫小队
+author: 海创Echo传媒
 language: zh_CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://sanekoctas.cn
+url: https://tv.merakt.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
