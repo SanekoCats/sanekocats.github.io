@@ -241,7 +241,7 @@ vendors:
 # UI
 banner:
   enable: true
-  title: 春见小窝
+  title: 海创Echo传媒
   src: /js/ui/banner.js
   border: true
   cloud:
